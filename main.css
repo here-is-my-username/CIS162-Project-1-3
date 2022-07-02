@@ -1,0 +1,55 @@
+Body {
+  
+   background: olive;
+}
+
+H1 {
+   font-family: 'Times New Roman';
+   font-size: 36px;
+   background: White;
+   color: maroon;
+}
+
+Nav {
+   font-family: 'Helvetica (sans-serif)';
+   font-size: 12px;
+   background: lime;
+   color: orange;
+}
+
+H2 {
+   font-family: arial,verdana,sans-serif;
+   font-size: 60px;
+   background: yellow;
+   color: black;
+}
+
+H3 {
+   font-family: Trebuchet MS (sans-serif);
+   font-size: 40px;
+   background: violet;
+   color: black;
+}
+
+P1 {
+   font-family: arial,verdana,sans-serif;
+   font-size: 14px;
+   background: White;
+   color: navy;
+}
+
+UL2 {
+   font-family: Garamond (serif);
+   font-size: 15px;
+   background: Indigo;
+   color: White;
+}
+
+Section{
+   background: White;
+}
+Footer{
+   font-family: Trebuchet MS (sans-serif);
+   font-size: 26px;
+   color: black;
+}
